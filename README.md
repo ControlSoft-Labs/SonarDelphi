@@ -1,5 +1,9 @@
 ![Java CI with Maven](https://github.com/JAM-Software/SonarDelphi/workflows/Java%20CI%20with%20Maven/badge.svg)
 
+# This project was forked by Embarcadero which is now the new official home of SonarDelphi: https://github.com/Embarcadero/SonarDelphi
+
+# This fork is no longer maintained.
+
 # SonarQube Delphi
 
 Is a SonarQube (http://www.sonarqube.org/) plugin and provides
